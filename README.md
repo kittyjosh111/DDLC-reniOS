@@ -2,8 +2,11 @@
 DDLC on iOS using RenPy and reniOS support files
 
 Xcode 10.0, macOS 10.14
+
 Ren'Py 6.99.14.3
+
 iOS 14.3, checkra1n 0.12.4
+
 
 This project uses the Steam installation of DDLC and was put through the Ren'Py Launcher's option to create an iOS distribution. iOS support required the use of iOS support files from RenPy's download page. 
 

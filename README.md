@@ -8,7 +8,7 @@ Ren'Py 6.99.14.3
 iOS 14.3, checkra1n 0.12.4, Taurine 1.04
 
 
-This project uses the Steam installation of DDLC and was put through the Ren'Py Launcher's option to create an iOS distribution. iOS support required the use of iOS support files from RenPy's download page. 
+This project uses the Steam installation of DDLC and was put through the Ren'Py Launcher's option to create an iOS distribution. iOS support required the use of iOS support files from RenPy's download page. Is to be used in conjunction with my DDLC-reniOS Mod Manager (DDLCRMM), which simplifies fixing problems with the app and injecting mods. It can be found on Routinehub: https://routinehub.co/shortcut/9204/
 
 This project was made to be used on jailbroken iOS devices, as the app needed to read and write files. Also, in order to manipulate .chr files or even add mods, you need to view the directories of the application, which is only available for jailbroken handsets.
 

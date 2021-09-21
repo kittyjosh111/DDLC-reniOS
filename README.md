@@ -1,6 +1,8 @@
 # DDLC-reniOS
 DDLC on iOS using RenPy and reniOS support files
 
+Does not work anymore. Permission issues on both Taurine and Unc0ver. Crashes when loading mods. Only works on checkra1n jailbreaks now. Deb and ipa forms encounter same problems.
+--
 Compiled on Xcode 10.0, macOS 10.14
 
 Built with Ren'Py 6.99.14.3
